@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverViewer", "DriverViewer\DriverViewer.csproj", "{94B3E1EF-52DB-4E1F-9057-75B9851DD250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B3E1EF-52DB-4E1F-9057-75B9851DD250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B3E1EF-52DB-4E1F-9057-75B9851DD250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B3E1EF-52DB-4E1F-9057-75B9851DD250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B3E1EF-52DB-4E1F-9057-75B9851DD250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2569DF6-A481-427F-95B6-B3B0C71FFD31}
+	EndGlobalSection
+EndGlobal
